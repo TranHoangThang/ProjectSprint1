@@ -1,5 +1,4 @@
-User_manual_and_demo_Acc
-
+# PetShop Management
 PetShop có 4 chức năng chính:
 - 3 chức năng là quản lý thông tin nhân viên "Employee", khách hàng "Customer", thú cưng "Pet's".
 - chức năng còn lại là "report" có tổng cộng 4 chức năng phụ.
@@ -16,38 +15,38 @@ PetShop có 4 chức năng chính:
 * Thay connection string "Server=LAPTOP-CO730HHP; Database=Petshop; Integrated Security=True; Encrypt=False" với connection string của máy mở ứng dụng cho các form sau:
 > Login.cs
 
-> Employee.cs
-> Customer.cs
-> Pet.cs
+> Employee.cs </br>
+> Customer.cs </br>
+> Pet.cs </br>
 
-> SalesReport.cs
-> Inventory.cs
+> SalesReport.cs </br>
+> Inventory.cs </br>
 
-> Billing.cs
-> Transaction.cs
+> Billing.cs </br>
+> Transaction.cs </br>
 
-> StaffList.cs
-> EditEmployeeForm.cs
+> StaffList.cs </br>
+> EditEmployeeForm.cs </br>
 
-<------------->
+<------------------------->
 
 Tài khoản Manager Demo:
 
-UserName: TQuang
-Password: TQuang
+UserName: TQuang </br>
+Password: TQuang </br>
 
 Quyền: Toàn quyền
 
 Tài khoản Clerk Demo:
 
-UserName: HThang
-Password: HThang
+UserName: HThang </br>
+Password: HThang </br>
 
 Quyền: Access Employee, Customer, Pet's
 
 Tài khoản Accountant Demo:
 
-UserName: QPhu
-Password: QPhu
+UserName: QPhu </br>
+Password: QPhu </br>
 
 Quyền: Access Report
